@@ -24,4 +24,19 @@
  
  
 </div>
+    
+# Meus Projetos
+
+**Front end**
+
+- ArtAtiva Front End - [https://artativa.netlify.app](https://artativa.netlify.app/) - ReactJS / TS
+- Blog FrontEnd - [https://blogpessoal-reactjs-4wa9ejr4y-felipegaldy.vercel.app/login](https://blogpessoal-reactjs-4wa9ejr4y-felipegaldy.vercel.app/login) - React/TS
+- Jogo da Forca - [https://felipegaldy.github.io/jogoDaForca/](https://felipegaldy.github.io/jogoDaForca/) - JS/CSS/HTML
+- Decodificador de Texto - [https://felipegaldy.github.io/decodificador-de-texto-alura-oracle-one-challenge/](https://felipegaldy.github.io/decodificador-de-texto-alura-oracle-one-challenge/) - JS/CSS/HTML
+
+**Back end**
+
+- API REST Sebo Livros - [https://sebomaresia.herokuapp.com/swagger-ui/index.html](https://sebomaresia.herokuapp.com/swagger-ui/index.html) - Java/SpringBoot
+- API REST Blog - [https://blogpessoalgaldy.herokuapp.com/swagger-ui/index.html](https://blogpessoalgaldy.herokuapp.com/swagger-ui/index.html) - Java/SpringBoot
+- API REST Ecommerce - [https://artativa.herokuapp.com/swagger-ui/index.html](https://artativa.herokuapp.com/swagger-ui/index.html) - Java/Spring boot
 
